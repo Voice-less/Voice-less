@@ -1,10 +1,11 @@
+<!-- README.md de votre profil GitHub -->
+
+<!-- En-tête de présentation -->
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Bonjour%2C+je+suis+Salaheddine+LAMZIB;%22Hello%2C+I'm+Salaheddine+LAMZIB%22;" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=560&lines=Bonjour%2C+je+suis+Salaheddine+LAMZIB;%22Hello%2C+I'm+Salaheddine+LAMZIB%22;" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center">Chercheur niveau Master en Science des Données et Modélisation Mathématiques </h3>
-
-<br>
+<h3 align="center">Chercheur niveau Master en Science des Données et Modélisation Computationnelle</h3>
 
 <!-- Section "À propos de moi" -->
 ## 👨‍💻 À propos de moi | About Me
@@ -18,7 +19,6 @@
 - 🔬 Je me spécialise dans les **modèles probabilistes** et la **simulation numérique (FEM)**.
 - 🏥 J'ai un fort intérêt pour l'application de la science des données à la **santé publique** et à l'**épidémiologie**.
 - 💻 J'aime construire des outils **de bout en bout**, de l'analyse de données brute à l'interface utilisateur interactive.
--  cybersecurity interests
 - 🛡️ J'explore activement les domaines de la **cybersécurité**, de l'infrastructure PKI à la détection de menaces par l'IA.
 
 <br>
@@ -51,52 +51,16 @@
   <a href="https://www.latex-project.org/" target="_blank"> <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/></a>
 </p>
 
+<!--
 <br>
 
-<!-- Section "Projets" -->
-## 🚀 Mes Projets Phares | Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Outil d'Analyse Géospatiale (Santé)</h3>
-      <p>Une application de bureau (PyQt6) pour l'analyse et la cartographie (GeoJSON) des facteurs de risque du cancer du foie, développée dans le cadre de ma recherche de Master.</p>
-      <sub><b>Technologies :</b> Python, PyQt6, Plotly, Pandas, GeoJSON</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Détection d'URL Malveillantes (IA)</h3>
-      <p>Un système de bout en bout qui utilise le Machine Learning (XGBoost) et le NLP (TF-IDF) pour classifier les URL en temps réel, déployé via une web app Streamlit.</p>
-      <sub><b>Technologies :</b> Python, Scikit-learn, XGBoost, Streamlit</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Globe 3D Interactif (React)</h3>
-      <p>Une application web haute performance pour la visualisation de données géospatiales sur un globe 3D, construite avec React, Three.js et Vite.</p>
-      <sub><b>Technologies :</b> React, Three.js, Vite, GeoJSON</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Moteur de Simulation Numérique (FEM)</h3>
-      <p>Un solveur par Éléments Finis implémenté en Python pour résoudre les équations de Laplace et de la chaleur sur des domaines à géométrie complexe (fractale).</p>
-      <sub><b>Technologies :</b> Python, NumPy, SciPy, Calcul Scientifique</sub>
-    </td>
-  </tr>
-</table>
-
-<div align="right">
-  <b><a href="https://github.com/[VOTRE_PSEUDO_GITHUB]?tab=repositories">➡️ Voir tous mes projets | See all my projects...</a></b>
-</div>
-
-<br>
-
-<!-- Section "Statistiques GitHub" -->
 ## 📊 Mes Statistiques GitHub | My GitHub Stats
 
-<!-- IMPORTANT: Remplacez `[VOTRE_PSEUDO_GITHUB]` par votre pseudo GitHub ! -->
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[VOTRE_PSEUDO_GITHUB]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[VOTRE_PSEUDO_GITHUB]&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
+-->
 
 <br>
 
