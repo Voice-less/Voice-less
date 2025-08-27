@@ -1,5 +1,3 @@
-<!-- README.md de votre profil GitHub -->
-
 <!-- En-tête de présentation -->
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Bonjour%2C+je+suis+Salaheddine+LAMZIB;%22Hello%2C+I'm+Salaheddine+LAMZIB%22;" alt="Typing SVG" /></a>
